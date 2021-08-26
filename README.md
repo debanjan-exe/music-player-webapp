@@ -1,3 +1,13 @@
+![alt text](https://github.com/debanjan-exe/music-player-webapp/blob/master/mockups/music-player-webapp-1.jpg?raw=true)
+----
+![alt text](https://github.com/debanjan-exe/music-player-webapp/blob/master/mockups/music-player-webapp-2.jpg?raw=true)
+----
+##Mobile Responsive too
+----
+![alt text](https://github.com/debanjan-exe/music-player-webapp/blob/master/mockups/music-player-webapp-3.jpg?raw=true)
+----
+![alt text](https://github.com/debanjan-exe/music-player-webapp/blob/master/mockups/music-player-webapp-4.jpg?raw=true)
+----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
