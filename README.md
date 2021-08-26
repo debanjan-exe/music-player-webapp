@@ -2,7 +2,7 @@
 ----
 ![alt text](https://github.com/debanjan-exe/music-player-webapp/blob/master/mockups/music-player-webapp-2.jpg?raw=true)
 ----
-##Mobile Responsive too
+## Mobile Responsive too
 ----
 ![alt text](https://github.com/debanjan-exe/music-player-webapp/blob/master/mockups/music-player-webapp-3.jpg?raw=true)
 ----
